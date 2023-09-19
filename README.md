@@ -5,3 +5,4 @@
 ## AdditionVisualization.pdf is a logic diagram for adding two variables together.
 ## Python.png added as module 10 task 3 to code the logic diagram.
 ## BenHolmesFlowerClass is a class diagram for a possible flower.
+## PythonOOP and Flower.py are code examples for a Flower class for Module 12 Task 2
