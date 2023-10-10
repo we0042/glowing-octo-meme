@@ -8,3 +8,4 @@
 ## PythonOOP and Flower.py are code examples for a Flower class for Module 12 Task 2
 ## NetworkDesign.png is an example of a star topology for an Office LAN. There is a separate Server LAN connected by multi-layer switches. 
 ## SQLQuery.png is example code returning all products with a price greater than $50, ordered by price, from the products table.
+## MyHTML is a sample website for a fictional computer company, Titan Computing. 
